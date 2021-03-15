@@ -1,4 +1,4 @@
-require './main2'
+require './lib/main2'
 require 'rspec'
 
 describe SS do
